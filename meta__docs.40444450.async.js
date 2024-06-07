@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkMINKEN=self.webpackChunkMINKEN||[]).push([[904],{37523:function(s,n,t){t.r(n),t.d(n,{texts:function(){return u}});const u=[{value:"This is a guide example.",paraId:0}]},2687:function(s,n,t){t.r(n),t.d(n,{texts:function(){return u}});const u=[]}}]);
